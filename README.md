@@ -1,6 +1,6 @@
 # Algoritmo: maior, menor de 3 números.
 
-## Versão Full:
+## Versão Full
 #### Recebe 3 números e vai descobrir qual é o maior, menor, mediana, média dos 3 e a média de maior e menor.
 
 ## Versão Reduzida
